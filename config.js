@@ -5,15 +5,15 @@ const CONFIG = {
     Dịch thì quá chời, ko đi chơi đc.
     Tui chỉ biết làm như này, để nói là:
     Happy Birthday Broo!!!
-    Mong la bạn sẽ ko bùn tui :))`,
+    Mong là bạn sẽ ko bùn tui :))`,
     btnIntro: 'hihi',
     title: 'T hỏi thiệt �',
-    desc: 'M có pùn t hem???? ',
+    desc: 'M có dận t hem???? ',
     btnYes: 'Sao mà dận bạn iu dấu của t được <33',
     btnNo: 'Có nha, Dận tím người :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao m lại chọn t làm bạn thân <3',
+    question:'M có pùn t hơm??? <3',
     btnReply: 'Gửi cho tao :)',
-    reply: 'M quá cute <33333333',
+    reply: 'Hong bùn xíu nào <33333333',
     mess: 'Tao biết mà 🥰. Hạnh phúc quá đi 😘😘',
     messDesc: 'Mà t khỏi tặng quà m nhoa!!!',
     btnAccept: 'Okiiiii lun <3',
