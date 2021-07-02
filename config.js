@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Tao biết mà <3. Tks bạn iu nhìu nhìu nhìu 😘😘',
     messDesc: 'HAPPY BIRTHDAY --- TÂM TRẦN --- !!!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100042071405849'
+    messLink: 'https://www.facebook.com/profile.php?id=100022079436946'
 }
