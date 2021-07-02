@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Khỏi cũm được, hỏng seooo <33',
     btnNo: 'Phải tặng =))) :3',
     question:'M có pùn t hơm??? <3',
-    btnReply: 'Gửi cho tao :)',
+    btnReply: 'Gửi cho tao :))',
     reply: 'Hong bùn xíu nào hết á <3333',
     mess: 'Tao biết mà <3. Tks bạn iu nhìu nhìu nhìu 😘😘',
     messDesc: 'HAPPY BIRTHDAY --- TÂM TRẦN --- !!!',
