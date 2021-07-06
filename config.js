@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hii Bạn iu dấu!!!',
-    introDesc: `Hôm nay là sn m đó.
+    introDesc: `Hôm nay là sinh nhật m đó.
     Happy Birthday Broo!!!`,
     btnIntro: 'hihi',
     title: ' T hỏi này ~~ �??',
@@ -10,8 +10,8 @@ const CONFIG = {
     question:'M có pùn hơm??? <3',
     btnReply: 'Gửi cho tao :))',
     reply: 'Hong bùn xíu nào hết á <3333',
-    mess: 'Ỏỏỏỏỏỏỏỏỏ. Tao biết mà <3. Tks bạn iu nhìu nhìu nhìu 😘😘',
-    messDesc: 'HAPPY BIRTHDAY -- TÂM TRẦN -- !!!',
+    mess: 'Ỏỏỏỏỏỏỏỏỏ. Tao biết mà <3. Tks bạn iu nhìu nhìu nhìu 😘',
+    messDesc: 'HAPPY BIRTHDAY --TÂM TRẦN-- !!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100022079436946'
 }
